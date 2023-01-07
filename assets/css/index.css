@@ -32,7 +32,8 @@ body {
  
  .div1,
  .div2,
- .div3 {
+ .div3,
+ .div4 {
    width: 500px;
    margin: 0 auto;
    text-align: center;
